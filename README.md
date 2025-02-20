@@ -73,7 +73,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eliasasa/eliasasa/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliasasa/eliasasa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliasasa/eliasasa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/eliasasa/eliasasa/output/github-snake.svg" />
+</picture>
 
 ###
 
@@ -84,7 +88,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/EliaS">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=EliaS&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21zog37tv2af34wrmpzdyriya&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
