@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/2035107099038792762/F1DEEE75FE5E607FE62BC93CCD09E3CACF455FAC/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
+<img align="right" height="150" src="https://static.wikia.nocookie.net/024fbe69-996b-4ff0-a6ee-81b398a203be"  />
 
 ###
 
