@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
   <img width="12" />
-  <img src="[https://logos-marcas.com/wp-content/uploads/2020/11/Ubuntu-Emblema.png](https://www.computerhope.com/jargon/u/ubuntu.png)" height="30" alt="ubuntu logo"  />
+  <img src="https://www.computerhope.com/jargon/u/ubuntu.png" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
